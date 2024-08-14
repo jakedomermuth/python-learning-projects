@@ -10,3 +10,4 @@ This is the first project of this series that I created by myself. I am creating
 Difficulty Level: Easy
 
 ## Project 3: [Number-Guessing-Game](Number-Guessing-Game.py)
+This project is also a part of the Udemy Series. I am very excited about this project because I was able to finish it myself and add additional features such as setting a limit on the amount of guesses a user can have. I also got to use skills I gained from the "Tech-With-Tim" follow-along. In that follow-along, I learned about creating infinite loops to ensure a user gives you the input you want. After I completed this, I watched the tutorial and it used Try and Except for gathering input. It was interesting to see how many different ways a simple game can be created. 
