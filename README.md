@@ -9,3 +9,4 @@ For my first project, I decided to do a follow-along. While I plan on creating m
 This is the first project of this series that I created by myself. I am creating projects from the Udemy course "30 Great Python Projects to Help You Master it in 2024". With this project, I watched it run once and then attempted to replicate it (with some of my own personal touches) without watching the tutorial. I was very happy that I was able to do this. I did realize after watching the tutorial that I could have just used one function that takes a "word type" argument. This is a pleasant reminder to try and think more dynamically when working on these projects.
 Difficulty Level: Easy
 
+## Project 3: [Number-Guessing-Game](Number-Guessing-Game.py)
