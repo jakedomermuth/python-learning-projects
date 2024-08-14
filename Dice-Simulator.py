@@ -20,8 +20,8 @@ def amount_of_dice():
 def main():
     while True:
         dice_to_roll = amount_of_dice()
-        if dice_to_roll == 'Quit':
-            print('')
+        if dice_to_roll == 'quit':
+            print('Thank you for playing!')
             break
         else:
             for i in range(dice_to_roll):
