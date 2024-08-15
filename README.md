@@ -15,7 +15,7 @@ This project is also a part of the Udemy Series. I am very excited about this pr
 ## Project 4: [Dice-Simulator](Dice-Simulator.py)
 This project was very similar to the previous two. However, I still feel  I learned a lot. I got stuck a couple of times, but I was able to finish it without using the tutorial. However, I believe the tutorial was very beneficial because it simplified the project heavily by adding the values to a list.
 
-I also uploaded a project under [Dice-Simulator-2](Dice-Simulator-2.py), where I tried to create the simulator the way it was done in the tutorial. I did this by watching the video and then closing it and trying to do it myself. I also added a component to the project that totals up the total of all dice rolls. Doing the project this way is a little more confusing for me, but it has opened me up to new ways to think about creating programs.
+I also uploaded a project under [Dice-Simulator2](Dice-Simulator2.py), where I tried to create the simulator the way it was done in the tutorial. I did this by watching the video and then closing it and trying to do it myself. I also added a component to the project that totals up the total of all dice rolls. Doing the project this way is a little more confusing for me, but it has opened me up to new ways to think about creating programs.
 
 
 # Intermediate Difficulty Level Projects:
