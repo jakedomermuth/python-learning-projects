@@ -14,4 +14,5 @@ This project is also a part of the Udemy Series. I am very excited about this pr
 Difficulty Level: Easy
 
 ## Project 4: [Dice Simulator](Dice-Simulator.py)
+This project was very similar to the previous two. However, I still feel  I learned a lot. I got stuck a couple of times, but I was able to finish it without using the tutorial. However, I believe the tutorial was very beneficial because it simplified the project heavily by adding the values to a list.
 
