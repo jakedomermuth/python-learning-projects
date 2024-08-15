@@ -13,6 +13,8 @@ Difficulty Level: Easy
 This project is also a part of the Udemy Series. I am very excited about this project because I was able to finish it myself and add additional features such as setting a limit on the amount of guesses a user can have. I also got to use skills I gained from the "Tech-With-Tim" follow-along. In that follow-along, I learned about creating infinite loops to ensure a user gives you the input you want. After I completed this, I watched the tutorial and it used Try and Except for gathering input. It was interesting to see how many different ways a simple game can be created. 
 Difficulty Level: Easy
 
-## Project 4: [Dice Simulator](Dice-Simulator.py)
+## Project 4: [Dice-Simulator](Dice-Simulator.py)
 This project was very similar to the previous two. However, I still feel  I learned a lot. I got stuck a couple of times, but I was able to finish it without using the tutorial. However, I believe the tutorial was very beneficial because it simplified the project heavily by adding the values to a list.
+
+I also uploaded a project under [Dice-Simulator-2](Dice-Simulator-2.py), where I tried to create the simulator the way it was done in the tutorial. I did this by watching the video and then closing it and trying to do it myself. I also added a component to the project that totals up the total of all dice rolls. Doing the project this way is a little more confusing for me, but it has opened me up to new ways to think about creating programs.
 
