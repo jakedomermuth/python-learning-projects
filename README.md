@@ -17,5 +17,7 @@ This project was very similar to the previous two. However, I still feel  I lear
 
 I also uploaded a project under [Dice-Simulator2](Dice-Simulator2.py), where I tried to create the simulator the way it was done in the tutorial. I did this by watching the video and then closing it and trying to do it myself. I also added a component to the project that totals up the total of all dice rolls. Doing the project this way is a little more confusing for me, but it has opened me up to new ways to think about creating programs.
 
+## Project 5: [Hangman-Game](Hangman-Game.py)
+This was the most difficult project I have completed so far. I tried multiple times to start this project, but I had to resort to the tutorial to complete it. However, I understand all of the building blocks of this project. I have the skills, but I lack the ability to think about the project from a broader perspective. I believe this is something that will come with more experience.
 
 # Intermediate Difficulty Level Projects:
