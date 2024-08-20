@@ -24,3 +24,5 @@ This was the most difficult project I have completed so far. I tried multiple ti
 In this project, I created a Rock Paper Scissors Game. This project was especially exciting because I was able to create it without any additional resources. I am getting comfortable with the basics of Python. 
 
 # Intermediate Difficulty Level Projects:
+
+# Advanced Difficulty Level Projects:
